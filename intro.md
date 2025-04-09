@@ -1,7 +1,5 @@
 # Bienvenidos a mi Jupyter Book
 
-# Augusto Valentino Dávila Robles
-
 ---
 
 ## Información Personal
